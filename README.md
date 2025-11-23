@@ -1,6 +1,6 @@
 # CVEs
 
-A repository to group the CVEs that I have discovered and their exploits:
+A repository to group CVEs for vulnerabilities that I have disclosed over the years and their exploits:
 
 - CVE-2025-40634: TP-Link archer ax50 wan stack-based buffer overflow
 - CVE-2024-2188: TP-Link archer ax50 stored XSS via UPnP
