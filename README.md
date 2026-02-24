@@ -1,6 +1,6 @@
 # CVEs
 
-A repository to group CVEs for vulnerabilities that I have disclosed over the years and their exploits:
+A repository to group all CVEs that I have disclosed over the years and their corresponding exploits:
 
 - CVE-2025-13943: Zyxel authenticated command injection in log export CGI
 - CVE-2025-13942: Zyxel unauthenticated command injection in UPnP daemon
