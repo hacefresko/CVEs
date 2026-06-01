@@ -4,7 +4,7 @@ A repository to group all CVEs that I have disclosed over the years and their co
 
 | CVE ID                                                                        | Description                                              | Impact      |
 |-------------------------------------------------------------------------------|----------------------------------------------------------|-------------|
-| [CVE-2026-20452](https://github.com/hacefresko/CVEs/tree/main/CVE-2026-20452) | Mediatek WPS kernel driver heap overflow                 | RCE         |
+| [CVE-2026-20452](https://github.com/hacefresko/CVEs/tree/main/CVE-2026-20452) | MediaTek WPS kernel driver heap overflow                 | RCE         |
 | [CVE-2025-13943](https://github.com/hacefresko/CVEs/tree/main/CVE-2025-13943) | Zyxel authenticated command injection in log export CGI  | RCE         |
 | [CVE-2025-13942](https://github.com/hacefresko/CVEs/tree/main/CVE-2025-13942) | Zyxel unauthenticated command injection in UPnP daemon   | RCE         |
 | [CVE-2025-40634](https://github.com/hacefresko/CVEs/tree/main/CVE-2025-40634) | TP-Link archer ax50 wan stack overflow                   | RCE         |
