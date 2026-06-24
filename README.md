@@ -1,6 +1,10 @@
 # CVEs
 
-A repository containing all vulnerabilities I have reported that have been assigned a CVE. Each folder includes a write-up (or a link to one) and an exploit (PoC || GTFO!). Some folders also contain a copy of the vulnerable software for research and reproduction purposes. Enjoy ;)
+A repository containing all vulnerabilities I have reported that have been assigned a CVE.
+Each folder includes a write-up (or a link to one) and an exploit (PoC || GTFO!).
+Some folders also contain a copy of the vulnerable software for research and reproduction purposes.
+
+Enjoy ;)
 
 | CVE ID                                                                        | Description                                              | Impact      |
 |-------------------------------------------------------------------------------|----------------------------------------------------------|-------------|
