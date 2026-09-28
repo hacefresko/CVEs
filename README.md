@@ -1,6 +1,6 @@
 # CVEs
 
-A repository containing all vulnerabilities I have reported that have been assigned a CVE.
+A repository containing vulnerabilities I have reported that have been assigned a CVE (or are pending one).
 
 Each folder includes a write-up and an exploit (`PoC || GTFO!`).
 
